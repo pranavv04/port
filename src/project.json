@@ -1,0 +1,22 @@
+[
+    {
+        "image" : "/images/nft.jpeg",
+        "title" : "NFT Marketplace",
+        "description" : "This is NFT Marketplace where user can buy and sell NFT's "
+    },
+    {
+        "image" : "/images/ai ios.jpeg",
+        "title" : "AI Tool",
+        "description" : "Scans drawing and convert it into text similar to IOS math board "
+    },
+    {
+        "image" : "/images/ecom.jpg",
+        "title" : "Ecommerce website",
+        "description" : "Ecommerce website where user can buy and sell there products "
+    },
+    {
+        "image" : "/images/ai.jpeg",
+        "title" : "AI gpt",
+        "description" : "This is similar to chatgpt where we can ask question and AI gives us best response "
+    }
+]

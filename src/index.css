@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+*{
+    font-family: "Inter", system-ui;
+
+}
+
+
+/* For Chrome, Safari, and Edge */
+::-webkit-scrollbar {
+    width: 8px;               /* Width of the scrollbar */
+  }
+  
+  ::-webkit-scrollbar-track {
+    background:white ;        /* Color of the track (the background of the scrollbar) */
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background-color: #3B82F6
+    ;  /* Color of the scrollbar thumb */
+    border-radius: 20px;        /* Rounded corners */
+    border: 1px solid #3B82F6
+    ;  /* Space around the thumb */
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background-color: black;  /* Color on hover */
+  }
+  
